@@ -1,6 +1,10 @@
 ---
-title: My Paper
+title: My Awesome Paper
 authors:
+  - name: Norah Jones
+    affiliation: The University
+    roles: writing
+    corresponding: true
   - name: Norah Jones
     affiliation: The University
     roles: writing
@@ -9,4 +13,4 @@ bibliography: references.bib
 ---
 
 ## Section
-This is a simple placeholder for the manuscript's main document [@knuth84].
+This is a simple placeholder for the manuscript's main document [@lahmers2021evaluation].
